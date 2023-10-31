@@ -19,7 +19,7 @@ Fig.2 Examples of Core Tumor Region Annoatations
 </p>  
 
 <p align="left"> 
-Further in the folder "A-Dataset-for-Tumor-Stroma-Ratio-Research/dataset/", we reserve servel xml files of the dataset, while the corresponding svs files can be found in “<a href="url">https://fanyi.baidu.com/#en/zh/reserve</a>”.
+Further in the folder "A-Dataset-for-Tumor-Stroma-Ratio-Research/dataset/", we reserve servel xml files of the dataset, while the corresponding svs files can be found in “<a href="url">https://drive.google.com/file/d/1s_NGHflzr_ynNEusLBEk3ILZGJxrkkAE/view?usp=drive_link, https://drive.google.com/file/d/1kmGif7NzlSRDMPBGcZ6It-WaHiLNsqCZ/view?usp=drive_link, https://drive.google.com/file/d/1P_rjl3dK601ACTuc7Z6FnxQAjqLD52pf/view?usp=drive_link, https://drive.google.com/file/d/1hhKhBijTCIyK4Wybel02akrkUfUV9xvP/view?usp=drive_link, https://drive.google.com/file/d/1EBDNUJlJVBnkHjR2tMd7tXnADUoR_zuS/view?usp=drive_link</a>”.
 </p>  
 
 <p align="left"> 

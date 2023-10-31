@@ -12,3 +12,5 @@ Meanwhile, we also provide some examples of core tumor region annotations based 
 <p align="center"> 
 Fig.2 Examples of Core Tumor Region Annoatations
 </p>  
+
+Further in the folder "A-Dataset-for-Tumor-Stroma-Ratio-Research/dataset/", we reserve servel xml files of the dataset, while the corresponding svs files can be found in “<a href="url">https://fanyi.baidu.com/#en/zh/reserve</a>”.
